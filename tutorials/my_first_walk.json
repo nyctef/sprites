@@ -75,7 +75,7 @@
  "meta": {
   "app": "http://www.aseprite.org/",
   "version": "1.2.7.3-x64",
-  "image": "F:\\Dropbox\\sprites\\my_first_walk.png",
+  "image": "C:\\git\\sprites\\tutorials\\my_first_walk.png",
   "format": "RGBA8888",
   "size": { "w": 256, "h": 32 },
   "scale": "1",
